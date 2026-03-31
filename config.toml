@@ -2,5 +2,7 @@
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
+    
 [params]
-author = true        
+author = true 
+title = "My Site"
